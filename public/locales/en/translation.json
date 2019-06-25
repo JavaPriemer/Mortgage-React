@@ -1,0 +1,13 @@
+{
+    "header":"Customer Mortgage Platform",
+    "logintitle":"Login to Your Account",
+    "loginid":"Login ID",
+    "password":"Password",
+    "account":"* Mortgage Signup Form",
+    "login":"Login",
+    "logout":"Logout",
+    "cancel":"Cancel",
+    "ploginid":"Enter Login Id",
+    "ppassword":"Enter Password",
+    "msg":"* New User Click on Apply for Bank Account "
+}

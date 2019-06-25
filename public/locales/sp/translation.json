@@ -1,0 +1,13 @@
+{
+    "header":"Plataforma de Hipotecas para Clientes",
+    "logintitle":"Ingrese a su cuenta",
+    "loginid":"Ingresar identificación",
+    "password":"Contraseña",
+    "account":"* Formulario de registro de hipoteca",
+    "login":"Iniciar",
+    "logout":"Cerrar sesión",
+    "cancel":"Cancelar",
+    "ploginid":"Ingrese su ID de inicio de sesión",
+    "ppassword":"Introducir la contraseña",
+    "msg":"* Nuevo usuario haga clic en Aplicar para cuenta bancaria"
+}

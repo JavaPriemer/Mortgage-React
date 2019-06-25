@@ -1,0 +1,2 @@
+export const MORTGAGE_DATA = 'MORTGAGE_DATA';
+export const PERSONAL_DATA = 'PERSONAL_DATA';
